@@ -1,0 +1,2 @@
+# MiniSchoolManagementApp
+This Repository contain MiniSchoolManagementSystem
